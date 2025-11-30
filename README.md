@@ -1,38 +1,44 @@
-# ✨ **Gold & Black Premium GitHub Profile — Hamza Ahmed Shaikh**
+# ✨ **Hamza Ahmed Shaikh — Full Stack MERN Developer**
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFD700,100:000000&text=Hamza%20Ahmed%20Shaikh&fontColor=fff&fontSize=45&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20Shopify%20Expert&descSize=20&animation=fadeIn" />
 
 <a href="https://hamzario.pk">
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFD700&center=true&vCenter=true&width=600&size=22&lines=Full+Stack+MERN+Developer+🔥;Frontend+%2B+Backend+Engineer+⚡;Passionate+About+Clean+Code+✨;Always+Learning+New+Technologies+🚀"/>
 </a>
+
 </div>
 
 ---
 
-## 🖤 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/skills/color/coding.png" width="20"> About Me
-I'm a self-taught **Full-Stack MERN Developer** from Karachi, Pakistan — building modern, scalable, and intuitive digital products.
-
-💡 Driven by creativity, clean code, and impactful solutions.  
-🔥 Strong logic building, real-world project experience, and startup-ready mindset.
-
-### 📌 **Currently Working On**
-- Completing **Modern Web & App Development (SMIT)**  
-- Mastering **Next.js (SSR/SSG), performance, caching, and clean architecture**  
-- Deep diving into **cloud deployment & scalable backend patterns**
+<div align="center">
+<sub>Currently Learning:</sub>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD700&width=600&lines=Next.js+|+SSR+%26+SSG;Cloud+Deployment+|+AWS+%26+Vercel;Real-time+Apps+|+Socket.io+%26+WebSockets" />
+</div>
 
 ---
 
-## 🛠 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/skills/color/skills.png" width="20"> Tech Arsenal
+## 🖤 About Me
 
-### ⚡ Core Stack  
+Self-taught **Full-Stack MERN Developer** from Karachi, Pakistan, building clean, scalable, and interactive web apps.
+
+- 💡 Passionate about UI/UX, automation, and real-time apps  
+- 🚀 Strengths: Clean code, strong logic, startup-ready problem solving  
+- 🎯 Goal: Master scalable backend architecture & cloud deployment  
+
+---
+
+## 🛠 Tech Stack
+
+### ⚡ Core
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman,vscode&theme=dark" />
 </div>
 
-### 🏆 Additional Expertise  
+### 🏆 Key Expertise
 <div align="center">
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&labelColor=FFD700"/>
 <img src="https://img.shields.io/badge/UI%2FUX%20Design-FFD700?style=for-the-badge&logo=figma&logoColor=000"/>
@@ -40,49 +46,61 @@ I'm a self-taught **Full-Stack MERN Developer** from Karachi, Pakistan — build
 
 ---
 
-## ✨ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/skills/color/projects.png" width="20"> Featured Projects
+## ✨ Featured Projects
 
 <div align="center">
 
-### 🆔 Student ID Card Generator
-[![Student ID Card](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Student-ID-card/)  
+<details>
+<summary>🆔 Student ID Card Generator</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Student-ID-card/)  
 Generate downloadable student ID cards instantly.  
+</details>
 
-### 🥗 Food Menu App
-[![Food Menu App](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Food-Menu-App/)  
+<details>
+<summary>🥗 Food Menu App</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Food-Menu-App/)  
 Filterable & responsive food menu web app.  
+</details>
 
-### 📱 Tab Bar
-[![Tab Bar](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/tab-bar/)  
+<details>
+<summary>📱 Tab Bar</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/tab-bar/)  
 Smooth animated tab bar UI component.  
+</details>
 
-### ♟ Chess Web Game
-[![Chess](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Chess/)  
+<details>
+<summary>♟ Chess Web Game</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Chess/)  
 Full browser-based chess engine with valid logic.  
+</details>
 
-### 🃏 Data Cards
-[![Data Cards](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/)  
+<details>
+<summary>🃏 Data Cards</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/)  
 Dynamic data visualized using animated cards.  
+</details>
 
-### 📚 Quiz App
-[![Quiz App](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/quiz-web-based-app/)  
+<details>
+<summary>📚 Quiz App</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/quiz-web-based-app/)  
 MCQ quiz with scoring & category filters.  
+</details>
 
 </div>
 
 ---
 
-## 🏆 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/skills/color/stats.png" width="20"> GitHub Activity
+## 🏆 GitHub Activity
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&no-frame=true&row=1&margin-w=10" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaahmedshaikh&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&fire=FFD700" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaahmedshaikh&theme=dark&background=000000&fire=FFD700" />
 </div>
 
 ---
 
-## 🖥️ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/skills/color/setup.png" width="20"> My Dev Setup
+## 🖥️ Development Setup
 
 | Component | Tool |
 |----------|------|
@@ -94,14 +112,14 @@ MCQ quiz with scoring & category filters.
 
 ---
 
-## 💬 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/skills/color/quote.png" width="20"> Developer Quote
+## 💬 Developer Quote
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
 ---
 
-## 🌍 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/skills/color/socials.png" width="20"> Let’s Connect
+## 🌍 Let’s Connect
 
 <div align="center">
 <a href="https://hamzario.pk"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=000" /></a>
