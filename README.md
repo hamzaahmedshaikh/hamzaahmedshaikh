@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">🙌 Hi, I'm Hamza Ahmed Shaikh — MERN Stack Developer 🚀</h1>
 <p align="center">
   <b>Building modern web and mobile experiences, learning every day.</b>
@@ -30,12 +29,10 @@ I enjoy building clean, scalable, and user-focused web & mobile apps — and I t
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
@@ -47,47 +44,37 @@ I enjoy building clean, scalable, and user-focused web & mobile apps — and I t
 ## ✨ Featured MERN Projects
 
 ### 🖥 <a href="https://hamzario.pk" target="_blank">Portfolio Website</a>  
-*A modern personal portfolio showcasing my journey and projects.*
-
-- **Tech Used:** HTML, CSS, JS, React, Tailwind  
-- **Live:** https://hamzario.pk  
-- **Repo:** https://github.com/hamzaahmedshaikh/Hamzario.pk  
+Modern, responsive portfolio app built in React and Tailwind CSS, showcasing my projects and journey with a smooth user experience.  
+**Tech Used:** HTML, CSS, JS, React, Tailwind  
+- [Live](https://hamzario.pk) · [Repo](https://github.com/hamzaahmedshaikh/Hamzario.pk)
 
 ---
 
 ### 📝 <a href="https://hamza-todo-mern.vercel.app" target="_blank">MERN Todo App</a>  
-*A complete CRUD todo app with clean UI and full MERN stack integration.*
-
-- **Tech Used:** MongoDB, Express.js, React, Node.js  
-- **Live Demo:** https://hamza-todo-mern.vercel.app  
-- **Repo:** https://github.com/hamzaahmedshaikh/Todo-List  
+Full-featured task-tracking app built on the MERN stack, supporting CRUD operations and persistent storage with MongoDB for real-world productivity.  
+**Tech Used:** MongoDB, Express.js, React, Node.js  
+- [Live Demo](https://hamza-todo-mern.vercel.app) · [Repo](https://github.com/hamzaahmedshaikh/Todo-List)
 
 ---
 
 ### 🆔 <a href="https://student-id-card-generator.vercel.app" target="_blank">Student ID Card Generator</a>  
-*Generates digital ID cards using user input.*
-
-- **Tech Used:** HTML, CSS, JavaScript  
-- **Live Demo:** https://student-id-card-generator.vercel.app  
-- **Repo:** https://github.com/hamzaahmedshaikh/Student-ID-card  
+Generates digital student ID cards dynamically from user input, with export options and a clean interface for quick preview/sharing.  
+**Tech Used:** HTML, CSS, JavaScript  
+- [Live Demo](https://student-id-card-generator.vercel.app) · [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
 
 ---
 
 ### ♟ <a href="https://hamzachess.vercel.app" target="_blank">Chess Web Game</a>  
-*A functional browser-based chess game.*
-
-- **Tech Used:** JavaScript, HTML, CSS  
-- **Live Demo:** https://hamzachess.vercel.app  
-- **Repo:** https://github.com/hamzaahmedshaikh/Chess  
+Fully interactive chess game playable in the browser, including move validation and game state management for a smooth gaming experience.  
+**Tech Used:** JavaScript, HTML, CSS  
+- [Live Demo](https://hamzachess.vercel.app) · [Repo](https://github.com/hamzaahmedshaikh/Chess)
 
 ---
 
 ### 🧮 <a href="https://hamzariocalculator.vercel.app" target="_blank">Calculator</a>  
-*A simple, fast, responsive calculator.*
-
-- **Tech Used:** JavaScript, HTML, CSS  
-- **Live Demo:** https://hamzariocalculator.vercel.app  
-- **Repo:** https://github.com/hamzaahmedshaikh/calculator  
+Sleek, fast calculator app with instant results, designed for usability and mobile-responsiveness from the ground up.  
+**Tech Used:** JavaScript, HTML, CSS  
+- [Live Demo](https://hamzariocalculator.vercel.app) · [Repo](https://github.com/hamzaahmedshaikh/calculator)
 
 ---
 
@@ -105,7 +92,7 @@ I enjoy building clean, scalable, and user-focused web & mobile apps — and I t
 - 💼 **Portfolio:** https://hamzario.pk  
 - 🐦 **X (Twitter):** https://x.com/hamzariopk  
 - 🔗 **GitHub:** https://github.com/hamzaahmedshaikh  
-- 📄 **Resume (PDF):** Available on portfolio  
+- 📄 **Resume (PDF):** [Download](https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view)  
 - 💌 **Email:** mrhamzaahmedshaikh@gmail.com  
 
 ---
