@@ -1,6 +1,7 @@
 
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFD700,100:000000&text=Hamza%20Ahmed%20Shaikh&fontColor=fff&fontSize=45&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20Shopify%20Expert&descSize=20&animation=fadeIn" />
 
 <!-- Main Intro Animated Typing -->
@@ -92,4 +93,40 @@ MCQ quiz with scoring & category filters.
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&no-frame=true&row=1&margin-w=10" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" />
-<img src="h
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaahmedshaikh&theme=dark&background=000000&fire=FFD700" />
+</div>
+
+---
+
+## 🖥️ Development Setup
+
+| Component | Tool |
+|----------|------|
+| **Editor** | VS Code |
+| **Terminal** | Git Bash / Zsh |
+| **Browser** | Chrome DevTools |
+| **API Testing** | Postman |
+| **Design** | Figma |
+
+---
+
+## 💬 Developer Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+---
+
+## 🌍 Let’s Connect
+
+<div align="center">
+<a href="https://hamzario.pk"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=000" /></a>
+<a href="https://x.com/hamzariopk"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
+<a href="mailto:mrhamzaahmedshaikh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br /><br />
+<img src="https://komarev.com/ghpvc/?username=hamzaahmedshaikh&color=FFD700&style=flat-square" />
+
+<br />
+<strong>Thanks for visiting — let’s build something amazing! 🚀</strong>
+</div>
