@@ -1,116 +1,39 @@
-<h1 align="center">🙌 Hi, I'm Hamza Ahmed Shaikh — MERN Stack Developer 🚀</h1>
-<p align="center">
-  <b>Building modern web and mobile experiences, learning every day.</b>
-</p>
+## ✨ Featured Projects
+
+### 🖥 [Hamzario.pk (Portfolio Website)](https://github.com/hamzaahmedshaikh/Hamzario.pk)
+A modern personal portfolio website to showcase my skills, featured projects, and career journey.  
+**Tech Used:** React, Tailwind CSS, HTML, CSS, JavaScript  
+**Live Demo:** [hamzario.pk](https://hamzario.pk)  
+Key Features: Responsive design, smooth UI, and links to all my work and profiles.
 
 ---
 
-## 👨‍💻 About Me
-
-Self-taught and passionate **Full-Stack MERN Developer** from Karachi, Pakistan.  
-Currently completing the **Modern Web & App Development (SMIT)** course while developing real-world, production-grade applications.
-
-I enjoy building clean, scalable, and user-focused web & mobile apps — and I thrive on solving real-world problems using modern technology.
-
-- 🌱 Currently learning advanced MERN, Next.js & React Native  
-- 💡 Interested in UI/UX, real-time apps, automation & open-source  
-- 🎯 Aiming to master cloud deployment and scalable backend architecture  
-- 🚀 Strong logic building, clean coding & startup-ready problem solving  
-
----
-
-## 🛠 Skills & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-323330?style=flat&logo=javascript&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat"/>
-</p>
-
----
-
-## ✨ Featured MERN Projects
-
-### 🖥 <a href="https://hamzario.pk" target="_blank">Portfolio Website</a>  
-Modern, responsive portfolio app built in React and Tailwind CSS, showcasing my projects and journey with a smooth user experience.  
-**Tech Used:** HTML, CSS, JS, React, Tailwind  
-- [Live](https://hamzario.pk) · [Repo](https://github.com/hamzaahmedshaikh/Hamzario.pk)
-
----
-
-### 📝 <a href="https://hamza-todo-mern.vercel.app" target="_blank">MERN Todo App</a>  
-Full-featured task-tracking app built on the MERN stack, supporting CRUD operations and persistent storage with MongoDB for real-world productivity.  
+### 📝 [Todo-List (MERN Todo App)](https://github.com/hamzaahmedshaikh/Todo-List)
+A full-stack CRUD Todo application built using the MERN stack, enabling users to add, update, and remove tasks efficiently.  
 **Tech Used:** MongoDB, Express.js, React, Node.js  
-- [Live Demo](https://hamza-todo-mern.vercel.app) · [Repo](https://github.com/hamzaahmedshaikh/Todo-List)
+**Live Demo:** [todo-mern-task.vercel.app](https://todo-mern-task.vercel.app)  
+Key Features: Persistent data storage with MongoDB, interactive UI, and clean codebase.
 
 ---
 
-### 🆔 <a href="https://student-id-card-generator.vercel.app" target="_blank">Student ID Card Generator</a>  
-Generates digital student ID cards dynamically from user input, with export options and a clean interface for quick preview/sharing.  
+### 🆔 [Student-ID-card (Student ID Card Generator)](https://github.com/hamzaahmedshaikh/Student-ID-card)
+Create customized digital student ID cards quickly by entering your details and exporting the card design.  
 **Tech Used:** HTML, CSS, JavaScript  
-- [Live Demo](https://student-id-card-generator.vercel.app) · [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
+**Live Demo:** [student-id-card-generator.vercel.app](https://student-id-card-generator.vercel.app)  
+Key Features: On-the-fly card design preview, simple UI, and print/export functionality.
 
 ---
 
-### ♟ <a href="https://hamzachess.vercel.app" target="_blank">Chess Web Game</a>  
-Fully interactive chess game playable in the browser, including move validation and game state management for a smooth gaming experience.  
+### ♟ [Chess (Chess Web Game)](https://github.com/hamzaahmedshaikh/Chess)
+An interactive chess web game with move validation and a user-friendly interface, playable against another human locally.  
 **Tech Used:** JavaScript, HTML, CSS  
-- [Live Demo](https://hamzachess.vercel.app) · [Repo](https://github.com/hamzaahmedshaikh/Chess)
+**Live Demo:** [hamzachess.vercel.app](https://hamzachess.vercel.app)  
+Key Features: Full chess rules implemented, turn-based play, and visually engaging board.
 
 ---
 
-### 🧮 <a href="https://hamzariocalculator.vercel.app" target="_blank">Calculator</a>  
-Sleek, fast calculator app with instant results, designed for usability and mobile-responsiveness from the ground up.  
-**Tech Used:** JavaScript, HTML, CSS  
-- [Live Demo](https://hamzariocalculator.vercel.app) · [Repo](https://github.com/hamzaahmedshaikh/calculator)
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=radical&column=7"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzaahmedshaikh&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌍 Connect & Contact
-
-- 💼 **Portfolio:** https://hamzario.pk  
-- 🐦 **X (Twitter):** https://x.com/hamzariopk  
-- 🔗 **GitHub:** https://github.com/hamzaahmedshaikh  
-- 📄 **Resume (PDF):** [Download](https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view)  
-- 💌 **Email:** mrhamzaahmedshaikh@gmail.com  
-
----
-
-## 🤓 Fun Facts & Personal Touch
-
-- 🔭 Passionate about intuitive UI and impactful backend systems  
-- 🎸 Guitar & music lover  
-- ☕ Coffee helps me write cleaner code  
-- ✨ Favorite quote: `"Code is like humor. When you have to explain it, it's bad." – Cory House"`
-
----
-
-## 🎨 Inspiration & Resources
-
-- Inspired by **Awesome GitHub Profile README**  
-- Designed with badges, emojis, and a clean modern layout  
-
----
-
-*Thank you for stopping by — let’s build something awesome together! 🚀*
+### 🧮 [calculator (Calculator App)](https://github.com/hamzaahmedshaikh/calculator)
+A lightweight, responsive calculator with all basic operations, optimized for both desktop and mobile browsers.  
+**Tech Used:** HTML, CSS, JavaScript  
+**Live Demo:** [hamzariocalculator.vercel.app](https://hamzariocalculator.vercel.app)  
+Key Features: Instant calculations, clear UI, and mobile support.
