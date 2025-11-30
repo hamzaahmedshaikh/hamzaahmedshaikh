@@ -1,58 +1,34 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
-
-          name: Generate Readme Stats
+name: Generate Readme Stats
 
 on:
+  # This runs the action automatically every day at midnight UTC
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
+  # This allows you to run the action manually from the Actions tab
   workflow_dispatch:
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Use v4 for the checkout action
+      
+      # The main step that generates the stats image
       - name: Generate GitHub Stats and Project Cards
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg # This file is generated
+          # REQUIRED: The file where the metrics image will be saved. 
+          # For your profile README, the recommended filename is 'github-metrics.svg'
+          # If you use 'metrics.svg', you must update your README file to point to it.
+          filename: github-metrics.svg 
+          
+          # REQUIRED: Grants the action access to your public data
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # BASE: Required default data to fetch
           base: header, activity, community, metadata
+
+          # PLUGINS: Enables extra features (like project cards, languages, etc.)
           plugin_isocalendar: yes
           plugin_lines: yes
           plugin_notable: yes
@@ -60,4 +36,11 @@ jobs:
           plugin_repositories: yes
           plugin_languages: yes
           plugin_stars: yes
+          # Colors/Theme (Optional but good for matching your gold/black theme)
+          config_output: svg
+          config_padding: 0
+          config_timezone: Asia/Karachi
+          config_display: columns
+          config_theme: github-dark
+          config_colors: '::orange,::yellow' # Tries to use gold/yellow accents
           
