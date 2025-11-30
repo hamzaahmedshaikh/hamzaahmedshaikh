@@ -1,6 +1,6 @@
 <!-- GLOBAL BACKGROUND WRAPPER -->
 <div style="
-    background-image: url('YOUR_BACKGROUND_IMAGE_URL');
+    background-image: url('https://images.unsplash.com/photo-1522199710521-72d69614c702?auto=format&fit=crop&w=1600&q=80');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
