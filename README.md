@@ -4,28 +4,41 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFD700,100:000000&text=Hamza%20Ahmed%20Shaikh&fontColor=fff&fontSize=45&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20Shopify%20Expert&descSize=20&animation=fadeIn" />
 
+<!-- Main Intro Animated Typing -->
 <a href="https://hamzario.pk">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2500&center=true&vCenter=true&width=700&height=70&pause=500&color=FFD700&lines=MongoDB+🔥;Express.js+🔥;React.js+🔥;Node.js+🔥;Next.js+✨;TailwindCSS+✨"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&center=true&vCenter=true&width=800&height=70&pause=500&color=FFD700&lines=Full+Stack+MERN+Developer+🔥;Frontend+%2B+Backend+Engineer+⚡;Passionate+About+Clean+Code+✨;Always+Learning+New+Technologies+🚀"/>
 </a>
 
 </div>
 
 ---
 
+<!-- Currently Learning Animation -->
+<div align="center" style="margin-top: 20px;">
+<sub>Currently Learning MERN Stack & Related Tech:</sub>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2500&center=true&vCenter=true&width=700&height=50&pause=500&color=FFD700&lines=MongoDB+🔥;Express.js+🔥;React.js+🔥;Node.js+🔥;Next.js+✨;TailwindCSS+✨"/>
+</div>
+
+---
+
 ## 🖤 About Me
 
-I specialize in creating **robust, performance-driven web applications** from concept to deployment using the MERN stack.
+Self-taught **Full-Stack MERN Developer** from Karachi, Pakistan — building clean, scalable, and interactive web apps.
 
 - 💡 Passionate about UI/UX, automation, and real-time apps  
 - 🚀 Strengths: Clean code, strong logic, startup-ready problem solving  
 - 🎯 Goal: Master scalable backend architecture & cloud deployment  
-- **Currently Exploring:** Advanced **AWS/GCP (Cloud Deployment)** and **Microservices Architecture**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🏆 Core Expertise
+### ⚡ Core
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman,vscode&theme=dark" />
+</div>
+
+### 🏆 Key Expertise
 <div align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -35,41 +48,42 @@ I specialize in creating **robust, performance-driven web applications** from co
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </div>
 
-### ⚡ General Skills
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,postman,vscode,figma&theme=dark" />
-</div>
-
 ---
 
-## ✨ Featured Full-Stack Projects
+## ✨ Featured Projects
 
-### ♟ Chess Web Game (Focus: Complex Logic & State Management)
-A full browser-based chess engine built entirely on **Vanilla JavaScript** (or specify React/Next if applicable) with robust valid move logic. This project highlights proficiency in handling **complex state transitions**, implementing **board validation rules**, and optimizing **game loop performance** without relying on external libraries.
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Chess/) 
-[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Chess)
+<div align="center">
 
-### 🆔 Student ID Card Generator (Focus: Data Processing & Automation)
-A tool designed to instantly generate and download customizable student ID cards. This project demonstrates skills in **DOM manipulation**, efficient **data handling (input processing)**, and client-side **image generation/export** functionality, solving a direct administrative automation need.
+### 🆔 Student ID Card Generator
+Generate downloadable student ID cards instantly.  
 [![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Student-ID-card/) 
 [![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Student-ID-card)
 
-### 📚 Quiz App (Focus: Category Filtering & Scoring Logic)
-An MCQ quiz application featuring multiple categories and dynamic scoring. The implementation focuses on robust **data structure design** for questions/answers and logic for **real-time score aggregation** and **category-based filtering** to provide a complex, interactive user experience.
+### 🥗 Food Menu App
+Filterable & responsive food menu web app.  
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Food-Menu-App/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Food-Menu-App)
+
+### 📱 Tab Bar
+Smooth animated tab bar UI component.  
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/tab-bar/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/tab-bar)
+
+### ♟ Chess Web Game
+Full browser-based chess engine with valid logic.  
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Chess/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Chess)
+
+### 🃏 Data Cards
+Dynamic data visualized using animated cards.  
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Show-Data-In-Cards)
+
+### 📚 Quiz App
+MCQ quiz with scoring & category filters.  
 [![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/quiz-web-based-app/) 
 [![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/quiz-web-based-app)
 
----
-
-## 🎨 Frontend Snippets & Mini-Projects
-* **🥗 Food Menu App:** Filterable & responsive food menu web app.
-* **📱 Tab Bar:** Smooth animated tab bar UI component.
-* **🃏 Data Cards:** Dynamic data visualized using animated cards.
-
-<div align="center">
-<a href="https://hamzaahmedshaikh.github.io/Food-Menu-App/">Live: Food Menu</a> |
-<a href="https://hamzaahmedshaikh.github.io/tab-bar/">Live: Tab Bar</a> |
-<a href="https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/">Live: Data Cards</a>
 </div>
 
 ---
@@ -81,14 +95,6 @@ An MCQ quiz application featuring multiple categories and dynamic scoring. The i
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaahmedshaikh&theme=dark&background=000000&fire=FFD700" />
 </div>
-
----
-
-## 💼 Open to Opportunities
-
-* **Seeking:** Full-Stack/MERN Developer roles (Remote/Karachi).
-* **Open to:** Collaboration on impactful open-source projects.
-* **Best way to reach me:** See the 'Let's Connect' section below!
 
 ---
 
