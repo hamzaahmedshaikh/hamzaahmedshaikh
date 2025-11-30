@@ -1,34 +1,51 @@
 <!-- Profile Header -->
 <h1 align="center">🙌 Hi, I'm Hamza Ahmed Shaikh — MERN Stack Developer 🚀</h1>
 <p align="center">
-  <b>Building modern web experiences, learning every day.</b>
+  <b>Building modern web and mobile experiences, learning every day.</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Experienced and passionate MERN Stack Developer with a knack for building full-stack web applications.  
-I thrive on solving real-world problems using innovative tech solutions, and I’m always exploring new tools and frameworks.
-- 🌱 Currently learning advanced MERN stack and aiming to become a specialist in scalable, production-grade applications.
-- 💡 Interested in UI/UX, real-time apps, and open-source collaboration.
-- 🎯 On a journey to master cloud deployment and automation.
+Self-taught and passionate **Full-Stack MERN Developer** from Karachi, Pakistan.  
+Currently completing the **Modern Web & App Development (SMIT)** course while developing real-world, production-grade applications.
+
+I enjoy building clean, scalable, and user-focused web & mobile apps — and I thrive on solving real-world problems using modern technology.
+
+- 🌱 Currently learning advanced MERN, Next.js & React Native  
+- 💡 Interested in UI/UX, real-time apps, automation & open-source  
+- 🎯 Aiming to master cloud deployment and scalable backend architecture  
+- 🚀 Strong logic building, clean coding & startup-ready problem solving  
 
 ---
 
 ## 🛠 Skills & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-323330?style=flat&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat"/>
+
+  <img src="https://img.shields.io/badge/WebSockets-FFA500?style=flat"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Testing Library-E33332?style=flat&logo=testing-library&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-FFA500?style=flat"/>
+
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>
@@ -38,20 +55,44 @@ I thrive on solving real-world problems using innovative tech solutions, and I�
 
 ## ✨ Featured MERN Projects
 
-<!-- Example project entry; update with your own projects! -->
-### [Project Name](https://github.com/hamzaahmedshaikh/MERN-example)
-*A scalable task management app built on the MERN stack.*
+### 🖥 Portfolio Website  
+*A personal portfolio showcasing my journey, skills, and all major projects.*
 
-- **Tech Used:** MongoDB, Express.js, React, Node.js, Redux, Material-UI
-- **Live Demo:** [Demo Link](https://merntasks.hamzario.pk)
-- **Repo:** [View on GitHub](https://github.com/hamzaahmedshaikh/MERN-example)
-- **Key Features:** Real-time updates, JWT authentication, drag & drop UI
-- **Challenges Overcome:** Integrated robust WebSockets for instant notifications, advanced error handling.
+- **Tech Used:** HTML, CSS, JS, React, Tailwind  
+- **Live:** https://hamzario.pk  
+- **Repo:** https://github.com/hamzaahmedshaikh/Hamzario.pk  
 
-<!-- Add a screenshot or gif if available -->
-<!--
-<img src="https://raw.githubusercontent.com/hamzaahmedshaikh/MERN-example/main/screenshot.png" alt="project screenshot" width="600"/>
--->
+---
+
+### 📝 MERN Todo App  
+*A complete CRUD todo app with clean UI and full MERN stack integration.*
+
+- **Tech Used:** MongoDB, Express.js, React, Node.js  
+- **Repo:** https://github.com/hamzaahmedshaikh/Todo-List  
+
+---
+
+### 🆔 Student ID Card Generator  
+*Generates digital ID cards with user input and downloadable layout.*
+
+- **Tech Used:** HTML, CSS, JS  
+- **Repo:** https://github.com/hamzaahmedshaikh/Student-ID-card  
+
+---
+
+### ♟ Chess Web Game  
+*A fully functional browser-based chess game.*
+
+- **Tech Used:** JavaScript, HTML, CSS  
+- **Repo:** https://github.com/hamzaahmedshaikh/Chess  
+
+---
+
+### 🧮 Calculator  
+*Simple, fast, responsive calculator UI.*
+
+- **Tech Used:** JavaScript, HTML, CSS  
+- **Repo:** https://github.com/hamzaahmedshaikh/calculator  
 
 ---
 
@@ -62,40 +103,33 @@ I thrive on solving real-world problems using innovative tech solutions, and I�
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzaahmedshaikh&theme=radical" alt="GitHub Streak" />
 </p>
 
-<!-- Optional Wakatime stats (if you use Wakatime, otherwise comment/remove) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hamzariopk"/>
-</p>
--->
-
 ---
 
 ## 🌍 Connect & Contact
 
-- 💼 [Portfolio](https://hamzario.pk)
-- 🐦 [X (Twitter)](https://x.com/hamzariopk)
-- 🔗 [GitHub](https://github.com/hamzaahmedshaikh)
-- 📄 [Resume (PDF)](https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view)
-- 💌 Email: **your.email@domain.com** <!-- Replace with your actual email -->
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) <!-- Add if available -->
-- 📝 [DEV.to](https://dev.to/hamzariopk) <!-- Add if available -->
-- ✍️ [Medium](https://medium.com/@hamzariopk) <!-- Add if available -->
+- 💼 **Portfolio:** https://hamzario.pk  
+- 🐦 **X (Twitter):** https://x.com/hamzariopk  
+- 🔗 **GitHub:** https://github.com/hamzaahmedshaikh  
+- 📄 **Resume (PDF):** Available in portfolio  
+- 💌 **Email:** mrhamzaahmedshaikh@gmail.com  
+- 📝 **DEV.to:** https://dev.to/hamzariopk  
+- ✍️ **Medium:** https://medium.com/@hamzariopk  
 
 ---
 
 ## 🤓 Fun Facts & Personal Touch
 
-- 🔭 Passionate about building intuitive user interfaces and impactful backend systems.
-- 🎸 Guitar enthusiast & coffee lover.
+- 🔭 Passionate about intuitive UI and impactful backend systems  
+- 🎸 Guitar & music lover  
+- ☕ Coffee helps me write cleaner code  
 - ✨ Favorite quote: `"Code is like humor. When you have to explain it, it's bad." – Cory House`
 
 ---
 
 ## 🎨 Inspiration & Resources
 
-- Inspired by [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) and top open source creators.
-- Customized with markdown badges, emojis, and cool stats to stand out!
+- Inspired by **Awesome GitHub Profile README** community  
+- Designed with badges, emojis, and modern layout  
 
 ---
 
