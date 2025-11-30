@@ -13,6 +13,11 @@
 
 ---
 
+<!-- Animated Neon Divider -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:000000&height=5&animation=fadeIn" />
+</p>
+
 <!-- Currently Learning Animation -->
 <div align="center" style="margin-top: 20px;">
 <sub>Currently Learning MERN Stack & Related Tech:</sub>
@@ -28,6 +33,10 @@ Self-taught **Full-Stack MERN Developer** from Karachi, Pakistan — building cl
 - 💡 Passionate about UI/UX, automation, and real-time apps  
 - 🚀 Strengths: Clean code, strong logic, startup-ready problem solving  
 - 🎯 Goal: Master scalable backend architecture & cloud deployment  
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:000000&height=5&animation=fadeIn" />
+</p>
 
 ---
 
@@ -48,6 +57,10 @@ Self-taught **Full-Stack MERN Developer** from Karachi, Pakistan — building cl
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </div>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:000000&height=5&animation=fadeIn" />
+</p>
+
 ---
 
 ## ✨ Featured Projects
@@ -56,45 +69,54 @@ Self-taught **Full-Stack MERN Developer** from Karachi, Pakistan — building cl
 
 ### 🆔 Student ID Card Generator
 Generate downloadable student ID cards instantly.  
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Student-ID-card/) 
-[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Student-ID-card)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000&link=https://hamzaahmedshaikh.github.io/Student-ID-card/)](https://hamzaahmedshaikh.github.io/Student-ID-card/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700&link=https://github.com/hamzaahmedshaikh/Student-ID-card)](https://github.com/hamzaahmedshaikh/Student-ID-card)
 
 ### 🥗 Food Menu App
 Filterable & responsive food menu web app.  
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Food-Menu-App/) 
-[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Food-Menu-App)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000&link=https://hamzaahmedshaikh.github.io/Food-Menu-App/)](https://hamzaahmedshaikh.github.io/Food-Menu-App/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700&link=https://github.com/hamzaahmedshaikh/Food-Menu-App)](https://github.com/hamzaahmedshaikh/Food-Menu-App)
 
 ### 📱 Tab Bar
 Smooth animated tab bar UI component.  
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/tab-bar/) 
-[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/tab-bar)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000&link=https://hamzaahmedshaikh.github.io/tab-bar/)](https://hamzaahmedshaikh.github.io/tab-bar/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700&link=https://github.com/hamzaahmedshaikh/tab-bar)](https://github.com/hamzaahmedshaikh/tab-bar)
 
 ### ♟ Chess Web Game
 Full browser-based chess engine with valid logic.  
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Chess/) 
-[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Chess)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000&link=https://hamzaahmedshaikh.github.io/Chess/)](https://hamzaahmedshaikh.github.io/Chess/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700&link=https://github.com/hamzaahmedshaikh/Chess)](https://github.com/hamzaahmedshaikh/Chess)
 
 ### 🃏 Data Cards
 Dynamic data visualized using animated cards.  
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/) 
-[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/Show-Data-In-Cards)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000&link=https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/)](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700&link=https://github.com/hamzaahmedshaikh/Show-Data-In-Cards)](https://github.com/hamzaahmedshaikh/Show-Data-In-Cards)
 
 ### 📚 Quiz App
 MCQ quiz with scoring & category filters.  
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/quiz-web-based-app/) 
-[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/hamzaahmedshaikh/quiz-web-based-app)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000&link=https://hamzaahmedshaikh.github.io/quiz-web-based-app/)](https://hamzaahmedshaikh.github.io/quiz-web-based-app/) 
+[![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700&link=https://github.com/hamzaahmedshaikh/quiz-web-based-app)](https://github.com/hamzaahmedshaikh/quiz-web-based-app)
 
 </div>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:000000&height=5&animation=fadeIn" />
+</p>
+
 ---
 
-## 🏆 GitHub Activity
+## 🏆 GitHub Stats & Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&no-frame=true&row=1&margin-w=10" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaahmedshaikh&theme=dark&background=000000&fire=FFD700" />
+<img src="https://img.shields.io/github/stars/hamzaahmedshaikh?style=for-the-badge&color=FFD700&logo=github&logoColor=000" />
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:000000&height=5&animation=fadeIn" />
+</p>
 
 ---
 
@@ -117,16 +139,14 @@ MCQ quiz with scoring & category filters.
 
 ---
 
-## 🌍 Let’s Connect
+## 🌍 Connect With Me
 
 <div align="center">
 <a href="https://hamzario.pk"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=000" /></a>
 <a href="https://x.com/hamzariopk"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
 <a href="mailto:mrhamzaahmedshaikh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 <br /><br />
 <img src="https://komarev.com/ghpvc/?username=hamzaahmedshaikh&color=FFD700&style=flat-square" />
-
 <br />
 <strong>Thanks for visiting — let’s build something amazing! 🚀</strong>
 </div>
