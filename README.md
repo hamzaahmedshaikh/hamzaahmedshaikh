@@ -1,122 +1,134 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,100:000000&height=250&text=Hamza%20Ahmed%20Shaikh&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20Shopify%20Expert&descAlignY=55&descSize=20&animation=fadeIn" />
+# ✨ **Hamza Ahmed Shaikh — Full Stack MERN Developer**
 
-  <a href="https://hamzario.pk">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFC300&size=20&center=true&lines=MERN+Stack+Developer+🔥;Frontend+%2B+Backend+Developer✨;Clean+Code+Enthusiast;Always+Learning+New+Tech!" />
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFD700,100:000000&text=Hamza%20Ahmed%20Shaikh&fontColor=fff&fontSize=45&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20Shopify%20Expert&descSize=20&animation=fadeIn" />
+
+<a href="https://hamzario.pk">
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFD700&center=true&vCenter=true&width=600&size=22&lines=Full+Stack+MERN+Developer+🔥;Frontend+%2B+Backend+Engineer+⚡;Passionate+About+Clean+Code+✨;Always+Learning+New+Technologies+🚀"/>
+</a>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-Self-taught and passionate **Full-Stack MERN Developer** from Karachi, Pakistan, specializing in building clean, scalable, and user-focused web applications.
-
-- 🎓 Currently completing the **Modern Web & App Development (SMIT)** course.
-- 🌱 **Learning:** Advanced MERN concepts, Next.js for SSR, and scalable cloud deployment.
-- 💡 **Interests:** UI/UX, real-time applications, automation, and open-source contributions.
-- 🎯 **Aiming to:** Master cloud deployment & scalable backend architecture.
-- 🚀 **Strengths:** Strong logic building, clean coding practices, and startup-ready problem solving.
+<div align="center">
+<sub>Currently Learning:</sub>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD700&width=600&lines=Next.js+|+SSR+%26+SSG;Cloud+Deployment+|+AWS+%26+Vercel;Real-time+Apps+|+Socket.io+%26+WebSockets" />
+</div>
 
 ---
 
-## 🛠 Skills & Technologies
+## 🖤 About Me
 
-### Core Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman" />
-</p>
+Self-taught **Full-Stack MERN Developer** from Karachi, Pakistan, building clean, scalable, and interactive web apps.
 
-### Key Expertise
-<p align="center">
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FCD34D?style=for-the-badge&logo=figma&logoColor=black"/>
-</p>
+- 💡 Passionate about UI/UX, automation, and real-time apps  
+- 🚀 Strengths: Clean code, strong logic, startup-ready problem solving  
+- 🎯 Goal: Master scalable backend architecture & cloud deployment  
+
+---
+
+## 🛠 Tech Stack
+
+### ⚡ Core
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman,vscode&theme=dark" />
+</div>
+
+### 🏆 Key Expertise
+<div align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&labelColor=FFD700"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-FFD700?style=for-the-badge&logo=figma&logoColor=000"/>
+</div>
 
 ---
 
 ## ✨ Featured Projects
 
-### 🆔 Student ID Card Generator
-Instantly generates digital student ID cards based on user input, designed for quick export and sharing.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/Student-ID-card/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
+<div align="center">
 
-### 🥗 Food Menu App  
-A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/Food-Menu-App/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Food-Menu-App)
+<details>
+<summary>🆔 Student ID Card Generator</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Student-ID-card/)  
+Generate downloadable student ID cards instantly.  
+</details>
 
-### 📱 Tab Bar  
-Customizable tab bar for websites with smooth transitions and mobile-friendly UI.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/tab-bar/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/tab-bar)
+<details>
+<summary>🥗 Food Menu App</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Food-Menu-App/)  
+Filterable & responsive food menu web app.  
+</details>
 
-### ♟ Chess Web Game  
-Full browser-based chess game with valid moves and interactive UI.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/Chess/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Chess)
+<details>
+<summary>📱 Tab Bar</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/tab-bar/)  
+Smooth animated tab bar UI component.  
+</details>
 
-### 🃏 Show Data In Cards  
-Displays dynamic data inside animated and responsive card layouts.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Show-Data-In-Cards)
+<details>
+<summary>♟ Chess Web Game</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Chess/)  
+Full browser-based chess engine with valid logic.  
+</details>
 
-### 📚 Quiz Web Based App  
-Multiple-choice quiz app with scoring, instant feedback, and categories.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/quiz-web-based-app/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/quiz-web-based-app)
+<details>
+<summary>🃏 Data Cards</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/)  
+Dynamic data visualized using animated cards.  
+</details>
 
----
+<details>
+<summary>📚 Quiz App</summary>
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://hamzaahmedshaikh.github.io/quiz-web-based-app/)  
+MCQ quiz with scoring & category filters.  
+</details>
 
-## 🔥 Pinned Projects
-
-These projects are highlighted on my profile:
-
-- **Food Menu App:** [https://github.com/hamzaahmedshaikh/Food-Menu-App](https://github.com/hamzaahmedshaikh/Food-Menu-App)
-- **Chess Web Game:** [https://github.com/hamzaahmedshaikh/Chess](https://github.com/hamzaahmedshaikh/Chess)
+</div>
 
 ---
 
 ## 🏆 GitHub Activity
 
-### Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&margin-w=10" />
-</p>
-
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmedshaikh&theme=react-dark" />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&no-frame=true&row=1&margin-w=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaahmedshaikh&theme=dark&background=000000&fire=FFD700" />
+</div>
 
 ---
 
-## 🖥️ My Development Setup
+## 🖥️ Development Setup
 
-| Component | Tool/Software |
-| :--- | :--- |
-| **Code Editor** | `VS Code` |
-| **Terminal** | `Git Bash / Zsh` |
-| **Browser** | `Chrome Dev Tools` |
-| **API Testing** | `Postman` |
-| **Design** | `Figma` |
-
----
-
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+| Component | Tool |
+|----------|------|
+| **Editor** | VS Code |
+| **Terminal** | Git Bash / Zsh |
+| **Browser** | Chrome DevTools |
+| **API Testing** | Postman |
+| **Design** | Figma |
 
 ---
 
-## 🌍 Connect With Me
+## 💬 Developer Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
 
-<p align="center">
-  <a href="https://hamzario.pk"><img src="https://img.shields.io/badge/Portfolio-FFC300?style=for-the-badge&logo=About.me&logoColor=black" /></a>
-  <a href="https://x.com/hamzariopk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:mrhamzaahmedshaikh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamzaahmedshaikh&color=yellow&style=flat-square" />
-  <br>
-  <b>Thank you for visiting — let’s build something awesome together! 
+## 🌍 Let’s Connect
+
+<div align="center">
+<a href="https://hamzario.pk"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=000" /></a>
+<a href="https://x.com/hamzariopk"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
+<a href="mailto:mrhamzaahmedshaikh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br /><br />
+<img src="https://komarev.com/ghpvc/?username=hamzaahmedshaikh&color=FFD700&style=flat-square" />
+
+<br />
+<strong>Thanks for visiting — let’s build something amazing! 🚀</strong>
+</div>
