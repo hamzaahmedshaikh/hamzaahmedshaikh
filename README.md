@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://portfolio-hamzario.netlify.app/<br>👯 All of my projects are available at https://hamzario.pk/<br>🤝 I’m looking for internships https://github.com/HamzaAhmed04<br>🌱 I’m currently learning React<br>💬 How to reach me mrhamzaahmedshaikh@gmail.com<br>⚡ Fun fact I will be the part of big organization
+🔭 I’m currently working on <br>👯 All of my projects are available at https://hamzario.pk/<br>🤝 I’m looking for internships https://github.com/HamzaAhmed04<br>🌱 I’m currently learning React<br>💬 How to reach me mrhamzaahmedshaikh@gmail.com<br>⚡ Fun fact I will be the part of big organization
 
 
 ## 🌐 Socials:
