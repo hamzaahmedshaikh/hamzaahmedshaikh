@@ -1,21 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 All of my projects are available at https://hamzario.pk/<br>🤝 I’m looking for internships https://github.com/HamzaAhmed04<br>🌱 I’m currently learning React<br>💬 How to reach me mrhamzaahmedshaikh@gmail.com<br>⚡ Fun fact I will be the part of big organization
+# Hi, I'm Hamza Ahmed Shaikh 👋
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thatshamzaahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrhamzaahmedshaikh@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HamzaAhmed04&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HamzaAhmed04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmed04&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HamzaAhmed04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Welcome to my GitHub profile! I'm a passionate developer on a journey to master modern web technologies, with a keen interest in building impactful projects and sharing knowledge.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HamzaAhmed04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm actively exploring the MERN stack and working towards becoming a full-fledged MERN developer. My repositories reflect a hands-on learning approach and a commitment to developing real-world solutions. I love collaborating, building, and contributing to open source.
+
+---
+
+## 🛠️ Technologies & Skills
+
+- **JavaScript**
+- **Node.js**
+- **Express.js**
+- **React.js**
+- **MongoDB**
+- HTML5, CSS3
+- Git & GitHub
+- API Design & Development
+
+*Constantly expanding my toolkit as I learn!*
+
+---
+
+## 🌐 Connect with Me
+
+- [GitHub](https://github.com/hamzaahmedshaikh)
+- [Portfolio Website](https://hamzario.pk)
+- [X (Twitter)](https://x.com/hamzariopk)
+- [Resume (PDF)](https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view)
+
+---
+
+## 🔥 Featured Projects
+
+Here are some highlights from my GitHub portfolio:
+
+- **MERN Stack Projects**
+  - Explore my repositories for practical implementations using MongoDB, Express, React, and Node.js!
+
+*Check out the pinned repositories for detailed project write-ups and code.*
+
+---
+
+## 📚 Learning Path
+
+I'm currently focused on mastering MERN stack technologies. I document my learning journey and publish related projects as I progress. Stay tuned for more full-stack applications built from scratch!
+
+---
+
+## 🏆 GitHub Trophy Showcase
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaahmedshaikh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=radical)
+
+---
+
+## 🏗️ Let's Connect & Collaborate!
+
+I'm always open to collaborating on exciting MERN projects and open source contributions. Reach out, fork a repo, or drop me a message!
+
+---
+
+*Thank you for visiting my profile — let’s build the web together!*
