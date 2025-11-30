@@ -37,60 +37,38 @@ I specialize in building clean, scalable, and user-focused web applications.
 
 ---
 
-## ✨ Featured Projects
+## ✨ Featured Projects (Detailed & Stable Listing)
+
+### 🥗 Food Menu App  
+A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category.
+<br>
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-ffcc00?style=flat-square&logo=browser&logoColor=black)](https://hamzaahmedshaikh.github.io/Food-Menu-App/)
+[![GitHub Repo](https://img.shields.io/badge/-Repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzaahmedshaikh/Food-Menu-App)
+
+### ♟ Chess Web Game  
+Full browser-based chess game with valid moves and interactive UI.
+<br>
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-ffcc00?style=flat-square&logo=browser&logoColor=black)](https://hamzaahmedshaikh.github.io/Chess/)
+[![GitHub Repo](https://img.shields.io/badge/-Repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzaahmedshaikh/Chess)
 
 ### 🆔 Student ID Card Generator
 Instantly generates digital student ID cards based on user input, designed for quick export and sharing.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/Student-ID-card/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
-
-### 🥗 Food Menu App  
-A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/Food-Menu-App/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Food-Menu-App)
-
-### ♟ Chess Web Game  
-Full browser-based chess game with valid moves and interactive UI.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/Chess/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Chess)
-
-### 📚 Quiz Web Based App  
-Multiple-choice quiz app with scoring, instant feedback, and categories.  
-🔗 [Live](https://hamzaahmedshaikh.github.io/quiz-web-based-app/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/quiz-web-based-app)
+<br>
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-ffcc00?style=flat-square&logo=browser&logoColor=black)](https://hamzaahmedshaikh.github.io/Student-ID-card/)
+[![GitHub Repo](https://img.shields.io/badge/-Repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzaahmedshaikh/Student-ID-card)
 
 ---
 
-## 🔥 Project Cards (FIXED URL & Theme for Stability)
+## 📈 My Activity
 
-<p align="center">
-  <a href="https://github.com/hamzaahmedshaikh/Food-Menu-App">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Food-Menu-App&theme=dark" />
-  </a>
-  <a href="https://github.com/hamzaahmedshaikh/Chess">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Chess&theme=dark" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats (FIXED URL & Theme for Stability)
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzaahmedshaikh&show_icons=true&theme=dark&hide_border=true&icon_color=ffcc00" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=dark&hide_border=true&icon_color=ffcc00" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
+### Contribution Graph (Highly Stable)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmedshaikh&theme=react-dark" />
+</p>
+
+### 🏆 Trophies (Highly Stable)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&margin-w=10" />
 </p>
 
 ---
