@@ -14,7 +14,7 @@ I enjoy building clean, scalable, and user-focused web & mobile apps — and I t
 
 - 🌱 Currently learning advanced MERN, Next.js & React Native  
 - 💡 Interested in UI/UX, real-time apps, automation & open-source  
-- 🎯 Aiming to master cloud deployment and scalable backend architecture  
+- 🎯 Aiming to master cloud deployment & scalable backend architecture  
 - 🚀 Strong logic building, clean coding & startup-ready problem solving  
 
 ---
@@ -43,33 +43,51 @@ I enjoy building clean, scalable, and user-focused web & mobile apps — and I t
 
 ## ✨ Featured Projects
 
-### 🖥 Portfolio Website
-A sleek, modern portfolio to showcase my skills, experience, and key projects. Designed with React and Tailwind CSS for a smooth, responsive user experience.<br>
-📦 [Repo](https://github.com/hamzaahmedshaikh/Hamzario.pk)
+### 🥗 Food Menu App  
+A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category.  
+Built with HTML, CSS, and JavaScript, featuring a clean UI and user-friendly interactions.  
+🔗 **Live:** https://hamzaahmedshaikh.github.io/Food-Menu-App/  
+📦 **Repo:** https://github.com/hamzaahmedshaikh/Food-Menu-App
 
 ---
 
-### 📝 MERN Todo App
-A robust full-stack task manager built using MongoDB, Express.js, React, and Node.js. Features CRUD capabilities for daily productivity with user-friendly UI and persistent storage.<br>
-📦 [Repo](https://github.com/hamzaahmedshaikh/Todo-List)
+### 📱 Tab Bar  
+A customizable tab bar UI component for web applications, enabling quick navigation between pages.  
+Developed with HTML, CSS, and JavaScript, providing smooth transitions and mobile-friendly performance.  
+🔗 **Live:** https://hamzaahmedshaikh.github.io/tab-bar/  
+📦 **Repo:** https://github.com/hamzaahmedshaikh/tab-bar
 
 ---
 
-### 🆔 Student ID Card Generator
-Generates personalized student ID cards instantly using your info. Simple HTML/CSS/JS app; perfect for quick previews and downloadable cards.<br>
-📦 [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
+### ♟ Chess Web Game  
+A complete browser-based chess game with legal moves, interactive design, and smooth gameplay.  
+Built with JavaScript, HTML, and CSS for a responsive and engaging chess experience.  
+🔗 **Live:** https://hamzaahmedshaikh.github.io/Chess/  
+📦 **Repo:** https://github.com/hamzaahmedshaikh/Chess
 
 ---
 
-### ♟ Chess Web Game
-A browser-based chess game with full rule implementation, interactive gameplay, and a responsive board design. Built for fun and challenge with pure web technologies.<br>
-📦 [Repo](https://github.com/hamzaahmedshaikh/Chess)
+### 🃏 Show Data In Cards  
+A project displaying dynamic data inside beautiful card layouts with responsiveness and animations.  
+Made with JavaScript, CSS, and HTML using grid-based structure.  
+🔗 **Live:** https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/  
+📦 **Repo:** https://github.com/hamzaahmedshaikh/Show-Data-In-Cards
 
 ---
 
-### 🧮 Calculator Web App
-Fast, intuitive calculator supporting all basic operations. Mobile-friendly and easy to use, it’s ideal for quick calculations online.<br>
-📦 [Repo](https://github.com/hamzaahmedshaikh/calculator)
+### 📚 Quiz Web Based App  
+A multiple-choice quiz application with scoring logic, instant feedback, and UI animations.  
+Built with JavaScript, HTML, and CSS.  
+🔗 **Live:** https://hamzaahmedshaikh.github.io/quiz-web-based-app/  
+📦 **Repo:** https://github.com/hamzaahmedshaikh/quiz-web-based-app
+
+---
+
+### 🆔 Student ID Card Generator  
+Generates digital student ID cards instantly from user input, featuring a live preview.  
+Created using HTML, CSS, and JavaScript.  
+🔗 **Live:** https://hamzaahmedshaikh.github.io/Student-ID-card/  
+📦 **Repo:** https://github.com/hamzaahmedshaikh/Student-ID-card
 
 ---
 
@@ -87,7 +105,7 @@ Fast, intuitive calculator supporting all basic operations. Mobile-friendly and 
 - 💼 **Portfolio:** https://hamzario.pk  
 - 🐦 **X (Twitter):** https://x.com/hamzariopk  
 - 🔗 **GitHub:** https://github.com/hamzaahmedshaikh  
-- 📄 **Resume (PDF):** [Download](https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view)  
+- 📄 **Resume (PDF):** https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view  
 - 💌 **Email:** mrhamzaahmedshaikh@gmail.com  
 
 ---
@@ -97,15 +115,15 @@ Fast, intuitive calculator supporting all basic operations. Mobile-friendly and 
 - 🔭 Passionate about intuitive UI and impactful backend systems  
 - 🎸 Guitar & music lover  
 - ☕ Coffee helps me write cleaner code  
-- ✨ Favorite quote: `"Code is like humor. When you have to explain it, it's bad." – Cory House"`
+- ✨ Favorite quote: <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 
 ---
 
 ## 🎨 Inspiration & Resources
 
 - Inspired by **Awesome GitHub Profile README**  
-- Designed with badges, emojis, and a clean modern layout  
+- Designed with badges, emojis, and a clean, modern layout  
 
 ---
 
-*Thank you for stopping by — let’s build something awesome together! 🚀*
+<p align="center"><b>Thank you for visiting — let’s build something awesome together! 🚀</b></p>
