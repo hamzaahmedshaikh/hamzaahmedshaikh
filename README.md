@@ -1,6 +1,13 @@
-<h1 align="center">🙌 Hi, I'm Hamza Ahmed Shaikh — MERN Stack Developer 🚀</h1>
+<!-- Animated Header -->
 <p align="center">
-  <b>Building modern web and mobile experiences, learning every day.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,100:000000&height=200&text=Hamza%20Ahmed%20Shaikh&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&center=true&lines=MERN+Stack+Developer+🔥;React+Native+Learner📱;Clean+Code+Enthusiast💛;Always+Learning+New+Tech!" />
+  </a>
 </p>
 
 ---
@@ -8,7 +15,7 @@
 ## 👨‍💻 About Me
 
 Self-taught and passionate <b>Full-Stack MERN Developer</b> from Karachi, Pakistan.<br>
-Currently completing the <b>Modern Web & App Development (SMIT)</b> course while developing real-world, production-grade applications.
+Currently completing the <b>Modern Web & App Development (SMIT)</b> course while developing real-world, production-ready applications.
 
 I enjoy building clean, scalable, and user-focused web & mobile apps — and I thrive on solving real-world problems using modern technology.
 
@@ -21,109 +28,126 @@ I enjoy building clean, scalable, and user-focused web & mobile apps — and I t
 
 ## 🛠 Skills & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-323330?style=flat&logo=javascript&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat"/>
+### ⭐ Premium Skills Grid
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,reactnative,nodejs,express,mongodb,tailwind,firebase,git,github,postman" />
 </p>
 
 ---
 
 ## ✨ Featured Projects
 
+### 🆔 Student ID Card Generator
+Instantly generates digital student ID cards based on user input, designed for quick export and sharing.  
+Made with HTML, CSS, and JavaScript for dynamic updating and interactive card preview.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Student-ID-card/)  
+📦 [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
+
+---
+
 ### 🥗 Food Menu App  
 A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category.  
-Built with HTML, CSS, and JavaScript, featuring a clean UI and user-friendly interactions.  
-🔗 **Live:** https://hamzaahmedshaikh.github.io/Food-Menu-App/  
-📦 **Repo:** https://github.com/hamzaahmedshaikh/Food-Menu-App
+Built with HTML, CSS, and JavaScript with a clean & modern UI.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Food-Menu-App/)  
+📦 [Repo](https://github.com/hamzaahmedshaikh/Food-Menu-App)
 
 ---
 
 ### 📱 Tab Bar  
-A customizable tab bar UI component for web applications, enabling quick navigation between pages.  
-Developed with HTML, CSS, and JavaScript, providing smooth transitions and mobile-friendly performance.  
-🔗 **Live:** https://hamzaahmedshaikh.github.io/tab-bar/  
-📦 **Repo:** https://github.com/hamzaahmedshaikh/tab-bar
+Customizable tab bar for websites with smooth transitions and mobile-friendly UI.  
+Built using HTML, CSS, and JavaScript.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/tab-bar/)  
+📦 [Repo](https://github.com/hamzaahmedshaikh/tab-bar)
 
 ---
 
 ### ♟ Chess Web Game  
-A complete browser-based chess game with legal moves, interactive design, and smooth gameplay.  
-Built with JavaScript, HTML, and CSS for a responsive and engaging chess experience.  
-🔗 **Live:** https://hamzaahmedshaikh.github.io/Chess/  
-📦 **Repo:** https://github.com/hamzaahmedshaikh/Chess
+Full browser-based chess game with valid moves and interactive UI.  
+Made with HTML, CSS, and JavaScript.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Chess/)  
+📦 [Repo](https://github.com/hamzaahmedshaikh/Chess)
 
 ---
 
 ### 🃏 Show Data In Cards  
-A project displaying dynamic data inside beautiful card layouts with responsiveness and animations.  
-Made with JavaScript, CSS, and HTML using grid-based structure.  
-🔗 **Live:** https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/  
-📦 **Repo:** https://github.com/hamzaahmedshaikh/Show-Data-In-Cards
+Displays dynamic data inside animated and responsive card layouts.  
+Made with JavaScript, CSS and HTML.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/)  
+📦 [Repo](https://github.com/hamzaahmedshaikh/Show-Data-In-Cards)
 
 ---
 
 ### 📚 Quiz Web Based App  
-A multiple-choice quiz application with scoring logic, instant feedback, and UI animations.  
-Built with JavaScript, HTML, and CSS.  
-🔗 **Live:** https://hamzaahmedshaikh.github.io/quiz-web-based-app/  
-📦 **Repo:** https://github.com/hamzaahmedshaikh/quiz-web-based-app
+Multiple-choice quiz app with scoring, instant feedback, and categories.  
+Built with JavaScript, CSS and HTML.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/quiz-web-based-app/)  
+📦 [Repo](https://github.com/hamzaahmedshaikh/quiz-web-based-app)
 
 ---
 
-### 🆔 Student ID Card Generator  
-Generates digital student ID cards instantly from user input, featuring a live preview.  
-Created using HTML, CSS, and JavaScript.  
-🔗 **Live:** https://hamzaahmedshaikh.github.io/Student-ID-card/  
-📦 **Repo:** https://github.com/hamzaahmedshaikh/Student-ID-card
-
----
-
-## 📈 GitHub Stats & Activity
+## 🔥 Project Cards
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=radical&column=7"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzaahmedshaikh&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/hamzaahmedshaikh/Food-Menu-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Food-Menu-App&theme=radical" />
+  </a>
+  <a href="https://github.com/hamzaahmedshaikh/Chess">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Chess&theme=radical" />
+  </a>
 </p>
 
 ---
 
-## 🌍 Connect & Contact
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaahmedshaikh&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=discord&margin-w=10" />
+</p>
+
+---
+
+## ⚡ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmedshaikh&theme=react-dark" />
+</p>
+
+---
+
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzaahmedshaikh&color=yellow&style=flat-square" />
+</p>
+
+---
+
+## 🌍 Connect With Me  
 
 - 💼 **Portfolio:** https://hamzario.pk  
-- 🐦 **X (Twitter):** https://x.com/hamzariopk  
+- 🐦 **Twitter:** https://x.com/hamzariopk  
 - 🔗 **GitHub:** https://github.com/hamzaahmedshaikh  
-- 📄 **Resume (PDF):** https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view  
+- 📄 **Resume:** https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view  
 - 💌 **Email:** mrhamzaahmedshaikh@gmail.com  
 
 ---
 
-## 🤓 Fun Facts & Personal Touch
-
-- 🔭 Passionate about intuitive UI and impactful backend systems  
-- 🎸 Guitar & music lover  
-- ☕ Coffee helps me write cleaner code  
-- ✨ Favorite quote: <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-
----
-
-## 🎨 Inspiration & Resources
-
-- Inspired by **Awesome GitHub Profile README**  
-- Designed with badges, emojis, and a clean, modern layout  
-
----
-
-<p align="center"><b>Thank you for visiting — let’s build something awesome together! 🚀</b></p>
+<p align="center">
+  <b>Thank you for visiting — let’s build something awesome together! 🚀</b>
+</p>
