@@ -1,4 +1,3 @@
-# Hamza Ahmed Shaikh 
 
 <div align="center">
 
