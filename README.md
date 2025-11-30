@@ -39,42 +39,58 @@ I specialize in building clean, scalable, and user-focused web applications.
 
 ## ✨ Featured Projects
 
+### 🆔 Student ID Card Generator
+Instantly generates digital student ID cards based on user input, designed for quick export and sharing.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Student-ID-card/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
+
 ### 🥗 Food Menu App  
-A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category. Built with HTML, CSS, and JavaScript with a clean & modern UI.  
+A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category.  
 🔗 [Live](https://hamzaahmedshaikh.github.io/Food-Menu-App/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Food-Menu-App)
 
 ### ♟ Chess Web Game  
-Full browser-based chess game with valid moves and interactive UI. Made with HTML, CSS, and JavaScript.  
+Full browser-based chess game with valid moves and interactive UI.  
 🔗 [Live](https://hamzaahmedshaikh.github.io/Chess/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Chess)
+
+### 📚 Quiz Web Based App  
+Multiple-choice quiz app with scoring, instant feedback, and categories.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/quiz-web-based-app/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/quiz-web-based-app)
 
 ---
 
-## 🔥 Project Cards (FIXED URL)
+## 🔥 Project Cards (FIXED URL & Theme for Stability)
 
 <p align="center">
   <a href="https://github.com/hamzaahmedshaikh/Food-Menu-App">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Food-Menu-App&theme=radical" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Food-Menu-App&theme=dark" />
   </a>
   <a href="https://github.com/hamzaahmedshaikh/Chess">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Chess&theme=radical" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Chess&theme=dark" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats (FIXED URL)
+## 📊 GitHub Stats (FIXED URL & Theme for Stability)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzaahmedshaikh&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzaahmedshaikh&show_icons=true&theme=dark&hide_border=true&icon_color=ffcc00" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=dark&hide_border=true&icon_color=ffcc00" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmedshaikh&theme=react-dark" />
 </p>
 
 ---
@@ -94,8 +110,6 @@ Full browser-based chess game with valid moves and interactive UI. Made with HTM
 - 🔗 **GitHub:** [https://github.com/hamzaahmedshaikh](https://github.com/hamzaahmedshaikh)  
 - 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view)  
 - 💌 **Email:** mrhamzaahmedshaikh@gmail.com  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamzaahmedshaikh&color=yellow&style=flat-square" />
