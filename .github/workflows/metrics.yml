@@ -1,0 +1,45 @@
+name: Generate Readme Stats
+
+on:
+  # This runs the action automatically every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # This allows you to run the action manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # Use v4 for the checkout action
+      
+      # The main step that generates the stats image
+      - name: Generate GitHub Stats and Project Cards
+        uses: lowlighter/metrics@latest
+        with:
+          # REQUIRED: The file where the metrics image will be saved. 
+          # For your profile README, the recommended filename is 'github-metrics.svg'
+          # If you use 'metrics.svg', you must update your README file to point to it.
+          filename: github-metrics.svg 
+          
+          # REQUIRED: Grants the action access to your public data
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # BASE: Required default data to fetch
+          base: header, activity, community, metadata
+
+          # PLUGINS: Enables extra features (like project cards, languages, etc.)
+          plugin_isocalendar: yes
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_projects: yes
+          plugin_repositories: yes
+          plugin_languages: yes
+          plugin_stars: yes
+          # Colors/Theme (Optional but good for matching your gold/black theme)
+          config_output: svg
+          config_padding: 0
+          config_timezone: Asia/Karachi
+          config_display: columns
+          config_theme: github-dark
+          config_colors: '::orange,::yellow' # Tries to use gold/yellow accents
