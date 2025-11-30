@@ -1,12 +1,19 @@
+<!-- GLOBAL BACKGROUND WRAPPER -->
+<div style="
+    background-image: url('YOUR_BACKGROUND_IMAGE_URL');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 40px;
+    border-radius: 20px;
+">
 
+<!-- ⬇️ YOUR ORIGINAL CONTENT STARTS HERE -->
 
 <div align="center">
 
-![Banner](https://img.shields.io/badge/Hamza%20Ahmed%20Shaikh-Full%20Stack%20MERN%20Developer%20%7C%20Shopify%20Expert-black?style=for-the-badge&logoColor=white&labelColor=gold)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFD700,100:000000&text=Hamza%20Ahmed%20Shaikh&fontColor=fff&fontSize=45&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20Shopify%20Expert&descSize=20&animation=fadeIn" />
 
-<!-- Main Intro Animated Typing -->
 <a href="https://hamzario.pk">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&center=true&vCenter=true&width=800&height=70&pause=500&color=FFD700&lines=Full+Stack+MERN+Developer+🔥;Frontend+%2B+Backend+Engineer+⚡;Passionate+About+Clean+Code+✨;Always+Learning+New+Technologies+🚀"/>
 </a>
@@ -15,7 +22,6 @@
 
 ---
 
-<!-- Currently Learning Animation -->
 <div align="center" style="margin-top: 20px;">
 <sub>Currently Learning MERN Stack & Related Tech:</sub>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2500&center=true&vCenter=true&width=700&height=50&pause=500&color=FFD700&lines=MongoDB+🔥;Express.js+🔥;React.js+🔥;Node.js+🔥;Next.js+✨;TailwindCSS+✨"/>
@@ -24,7 +30,6 @@
 ---
 
 ## 🖤 About Me
-
 Self-taught **Full-Stack MERN Developer** from Karachi, Pakistan — building clean, scalable, and interactive web apps.
 
 - 💡 Passionate about UI/UX, automation, and real-time apps  
@@ -120,7 +125,6 @@ MCQ quiz with scoring & category filters.
 ---
 
 ## 🌍 Let’s Connect
-
 <div align="center">
 <a href="https://hamzario.pk"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=000" /></a>
 <a href="https://x.com/hamzariopk"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
@@ -131,4 +135,8 @@ MCQ quiz with scoring & category filters.
 
 <br />
 <strong>Thanks for visiting — let’s build something amazing! 🚀</strong>
+</div>
+
+<!-- ⬆️ YOUR ORIGINAL CONTENT ENDS HERE -->
+
 </div>
