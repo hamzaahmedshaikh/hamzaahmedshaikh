@@ -2,18 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFD700,100:000000&text=Hamza%20Ahmed%20Shaikh&fontColor=fff&fontSize=45&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20Shopify%20Expert&descSize=20&animation=fadeIn" />
 
-<!-- Big centered animated typing -->
+<!-- Big centered animated typing for MERN stack -->
 <a href="https://hamzario.pk">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&center=true&vCenter=true&width=800&height=60&pause=500&color=FFD700&lines=Full+Stack+MERN+Developer+🔥;Frontend+%2B+Backend+Engineer+⚡;Passionate+About+Clean+Code+✨;Always+Learning+New+Technologies+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2500&center=true&vCenter=true&width=700&height=70&pause=500&color=FFD700&lines=MongoDB+🔥;Express.js+🔥;React.js+🔥;Node.js+🔥;Next.js+✨;TailwindCSS+✨"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-<sub>Currently Learning:</sub>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&width=700&lines=Next.js+|+SSR+%26+SSG;Cloud+Deployment+|+AWS+%26+Vercel;Real-time+Apps+|+Socket.io+%26+WebSockets" />
 </div>
 
 ---
@@ -38,9 +31,11 @@ Self-taught **Full-Stack MERN Developer** from Karachi, Pakistan — building cl
 ### 🏆 Key Expertise
 <div align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&labelColor=FFD700"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-FFD700?style=for-the-badge&logo=figma&logoColor=000"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </div>
 
 ---
