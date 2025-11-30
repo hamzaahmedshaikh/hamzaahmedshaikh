@@ -45,31 +45,31 @@ I enjoy building clean, scalable, and user-focused web & mobile apps — and I t
 
 ### 🖥 Portfolio Website
 A sleek, modern portfolio to showcase my skills, experience, and key projects. Designed with React and Tailwind CSS for a smooth, responsive user experience.<br>
-🔗 [Live](https://hamzario.pk) &ensp;|&ensp; 📦 [Repo](https://github.com/hamzaahmedshaikh/Hamzario.pk)
+📦 [Repo](https://github.com/hamzaahmedshaikh/Hamzario.pk)
 
 ---
 
 ### 📝 MERN Todo App
 A robust full-stack task manager built using MongoDB, Express.js, React, and Node.js. Features CRUD capabilities for daily productivity with user-friendly UI and persistent storage.<br>
-🔗 [Live](https://hamza-todo-mern.vercel.app) &ensp;|&ensp; 📦 [Repo](https://github.com/hamzaahmedshaikh/Todo-List)
+📦 [Repo](https://github.com/hamzaahmedshaikh/Todo-List)
 
 ---
 
 ### 🆔 Student ID Card Generator
 Generates personalized student ID cards instantly using your info. Simple HTML/CSS/JS app; perfect for quick previews and downloadable cards.<br>
-🔗 [Live](https://student-id-card-generator.vercel.app) &ensp;|&ensp; 📦 [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
+📦 [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
 
 ---
 
 ### ♟ Chess Web Game
 A browser-based chess game with full rule implementation, interactive gameplay, and a responsive board design. Built for fun and challenge with pure web technologies.<br>
-🔗 [Live](https://hamzachess.vercel.app) &ensp;|&ensp; 📦 [Repo](https://github.com/hamzaahmedshaikh/Chess)
+📦 [Repo](https://github.com/hamzaahmedshaikh/Chess)
 
 ---
 
 ### 🧮 Calculator Web App
 Fast, intuitive calculator supporting all basic operations. Mobile-friendly and easy to use, it’s ideal for quick calculations online.<br>
-🔗 [Live](https://hamzariocalculator.vercel.app) &ensp;|&ensp; 📦 [Repo](https://github.com/hamzaahmedshaikh/calculator)
+📦 [Repo](https://github.com/hamzaahmedshaikh/calculator)
 
 ---
 
