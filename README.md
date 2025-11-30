@@ -10,13 +10,13 @@
 
 ## 👨‍💻 About Me
 
-Self-taught and passionate **Full-Stack MERN Developer** from Karachi, Pakistan.
-I specialize in building clean, scalable, and user-focused web applications.
+Self-taught and passionate **Full-Stack MERN Developer** from Karachi, Pakistan, specializing in building clean, scalable, and user-focused web applications.
 
 - 🎓 Currently completing the **Modern Web & App Development (SMIT)** course.
 - 🌱 **Learning:** Advanced MERN concepts, Next.js for SSR, and scalable cloud deployment.
 - 💡 **Interests:** UI/UX, real-time applications, automation, and open-source contributions.
-- 🚀 **Strengths:** Strong logic building, clean coding practices, and solving real-world problems.
+- 🎯 **Aiming to:** Master cloud deployment & scalable backend architecture.
+- 🚀 **Strengths:** Strong logic building, clean coding practices, and startup-ready problem solving.
 
 ---
 
@@ -37,39 +37,84 @@ I specialize in building clean, scalable, and user-focused web applications.
 
 ---
 
-## ✨ Featured Projects (Detailed & Stable Listing)
-
-### 🥗 Food Menu App  
-A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category.
-<br>
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-ffcc00?style=flat-square&logo=browser&logoColor=black)](https://hamzaahmedshaikh.github.io/Food-Menu-App/)
-[![GitHub Repo](https://img.shields.io/badge/-Repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzaahmedshaikh/Food-Menu-App)
-
-### ♟ Chess Web Game  
-Full browser-based chess game with valid moves and interactive UI.
-<br>
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-ffcc00?style=flat-square&logo=browser&logoColor=black)](https://hamzaahmedshaikh.github.io/Chess/)
-[![GitHub Repo](https://img.shields.io/badge/-Repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzaahmedshaikh/Chess)
+## ✨ Featured Projects
 
 ### 🆔 Student ID Card Generator
 Instantly generates digital student ID cards based on user input, designed for quick export and sharing.  
-<br>
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-ffcc00?style=flat-square&logo=browser&logoColor=black)](https://hamzaahmedshaikh.github.io/Student-ID-card/)
-[![GitHub Repo](https://img.shields.io/badge/-Repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzaahmedshaikh/Student-ID-card)
+Made with HTML, CSS, and JavaScript for dynamic updating and interactive card preview.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Student-ID-card/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Student-ID-card)
+
+### 🥗 Food Menu App  
+A dynamic and responsive food menu web app where users can browse, filter, and search dishes by category.  
+Built with HTML, CSS, and JavaScript with a clean & modern UI.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Food-Menu-App/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Food-Menu-App)
+
+### 📱 Tab Bar  
+Customizable tab bar for websites with smooth transitions and mobile-friendly UI.  
+Built using HTML, CSS, and JavaScript.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/tab-bar/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/tab-bar)
+
+### ♟ Chess Web Game  
+Full browser-based chess game with valid moves and interactive UI.  
+Made with HTML, CSS, and JavaScript.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Chess/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Chess)
+
+### 🃏 Show Data In Cards  
+Displays dynamic data inside animated and responsive card layouts.  
+Made with JavaScript, CSS and HTML.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/Show-Data-In-Cards/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/Show-Data-In-Cards)
+
+### 📚 Quiz Web Based App  
+Multiple-choice quiz app with scoring, instant feedback, and categories.  
+Built with JavaScript, CSS and HTML.  
+🔗 [Live](https://hamzaahmedshaikh.github.io/quiz-web-based-app/) | 📦 [Repo](https://github.com/hamzaahmedshaikh/quiz-web-based-app)
 
 ---
 
-## 📈 My Activity
+## 🔥 Project Cards (⚠️ Needs GitHub Action to be Stable)
 
-### Contribution Graph (Highly Stable)
+<p align="center">
+  <a href="https://github.com/hamzaahmedshaikh/Food-Menu-App">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Food-Menu-App&theme=dark" />
+  </a>
+  <a href="https://github.com/hamzaahmedshaikh/Chess">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hamzaahmedshaikh&repo=Chess&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats (⚠️ Needs GitHub Action to be Stable)
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzaahmedshaikh&show_icons=true&theme=dark&hide_border=true&icon_color=ffcc00" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzaahmedshaikh&layout=compact&theme=dark&hide_border=true&icon_color=ffcc00" />
+</p>
+
+---
+
+## 🏆 Trophies & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&margin-w=10" />
+</p>
+
+### ⚡ Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmedshaikh&theme=react-dark" />
 </p>
 
-### 🏆 Trophies (Highly Stable)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzaahmedshaikh&theme=monokai&margin-w=10" />
-</p>
+---
+
+## 🖥️ My Development Setup
+
+| Component | Tool/Software |
+| :--- | :--- |
+| **Code Editor** | `VS Code` |
+| **Terminal** | `Git Bash / Zsh` |
+| **Browser** | `Chrome Dev Tools` |
+| **API Testing** | `Postman` |
+| **Design** | `Figma` |
 
 ---
 
@@ -81,13 +126,13 @@ Instantly generates digital student ID cards based on user input, designed for q
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 Connect With Me
 
-- 💼 **Portfolio:** [https://hamzario.pk](https://hamzario.pk)  
-- 🐦 **Twitter:** [https://x.com/hamzariopk](https://x.com/hamzariopk)  
-- 🔗 **GitHub:** [https://github.com/hamzaahmedshaikh](https://github.com/hamzaahmedshaikh)  
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1RSvropmLMI_MhqCrbkCJBxUwwdWdFKA8/view)  
-- 💌 **Email:** mrhamzaahmedshaikh@gmail.com  
+<p align="center">
+  <a href="https://hamzario.pk"><img src="https://img.shields.io/badge/Portfolio-FFC300?style=for-the-badge&logo=About.me&logoColor=black" /></a>
+  <a href="https://x.com/hamzariopk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:mrhamzaahmedshaikh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamzaahmedshaikh&color=yellow&style=flat-square" />
